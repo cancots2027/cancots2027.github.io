@@ -1,0 +1,59 @@
+---
+title: "Local Info"
+pagetitle: "Local Info – CANCOTS 2027"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+## Venue
+
+All conference activities will be held at XXX
+
+## Accommodation
+
+*Hotel block information and recommended accommodation will be posted here.*
+
+## Getting to Toronto
+
+### By Air
+
+Toronto is served by **Toronto Pearson International Airport (YYZ)**, the largest airport in Canada,
+with connections from across North America and internationally. Billy Bishop Toronto City Airport
+(YTZ) also serves select domestic and US routes.
+
+### By Train
+
+Via Rail serves Toronto's **Union Station**, with connections from Montreal, Ottawa, Québec City,
+Windsor, and Niagara Falls.
+
+## Getting Around Toronto
+
+Toronto has an extensive transit system operated by the **TTC (Toronto Transit Commission)**,
+including subway, streetcar, and bus routes. The PRESTO card is the easiest way to pay for transit.
+
+## Things to Do in Toronto
+
+Toronto offers world-class museums, restaurants, and attractions:
+
+- **CN Tower** — iconic Toronto landmark and observation tower
+- **Royal Ontario Museum** — art, culture, and natural history
+- **Art Gallery of Ontario** — one of Canada's largest art museums
+- **Kensington Market** — eclectic neighbourhood with food, shops, and street art
+- **St. Lawrence Market** — historic market with local vendors
+- **Toronto Islands** — ferry ride to parks and beaches with city views
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+  <div class="sidebar-box">
+    <h3>Venue</h3>
+    <p>[Venue Name]<br>[City], ON</p>
+  </div>
+</aside>
+</div>
+```

@@ -1,0 +1,54 @@
+---
+title: "Registration"
+pagetitle: "Registration – CANCOTS 2027"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+## Registration
+
+*Registration for CANCOTS 2027 will open in early 2027*
+
+Details on registration fees and deadlines will be posted here when they are available.
+
+## Registration Categories
+
+| Category | Early Bird | Regular |
+|----------|-----------|---------|
+| Faculty | TBD | TBD |
+| Student | TBD | TBD |
+
+
+## What's Included
+
+Registration includes access to all sessions, conference materials, coffee breaks, and lunches.
+
+## Bursaries & Financial Support
+
+*Information on financial assistance will be posted here.*
+
+
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+  <div class="sidebar-box news">
+    <h3>News</h3>
+    <p>Registration opens [Month Year].</p>
+  </div>
+  <div class="sidebar-box">
+    <h3>Important Dates</h3>
+    <ul class="dates-list">
+      <li><span class="date-label">Early bird deadline:</span> TBD</li>
+      <li><span class="date-label">Regular deadline:</span> TBD</li>
+      <li><span class="date-label">Conference:</span> 14–16 May 2027</li>
+    </ul>
+  </div>
+</aside>
+</div>
+```

@@ -1,0 +1,70 @@
+---
+title: "Theme & Papers"
+pagetitle: "Theme & Papers – CANCOTS 2027"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+## Conference Theme
+
+***"[Your Conference Theme Title Here]"***
+
+[Describe the conference theme here. What questions does it raise for statistics education?
+Why is it particularly timely? What kinds of contributions are you hoping to attract?]
+
+## Paper & Poster Submissions
+
+The Program Committee invites submissions of papers and posters related to the conference theme.
+We welcome contributions from teachers, researchers, curriculum developers, and practitioners
+at all levels — primary, secondary, post-secondary, and professional.
+
+### Submission Types
+
+**Papers** — [Describe paper format, length, and what makes a strong submission.]
+
+**Posters** — [Describe poster format and guidelines.]
+
+### Submission Guidelines
+
+- Submissions should be made via [submission portal name/link — TBD]
+- Papers should be no more than [X] pages, using the provided template
+- All submissions will be peer-reviewed by the Program Committee
+
+### Key Dates
+
+| Milestone | Date |
+|-----------|------|
+| Submissions open | TBD |
+| Submission deadline | TBD |
+| Notification of acceptance | TBD |
+| Camera-ready copy due | TBD |
+| Conference | 14–16 May 2027 |
+
+## Questions?
+
+Contact the Program Committee at [cancots2027@example.com](mailto:cancots2027@example.com).
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+  <div class="sidebar-box news">
+    <h3>News</h3>
+    <p>Submission details coming soon.</p>
+  </div>
+  <div class="sidebar-box">
+    <h3>Important Dates</h3>
+    <ul class="dates-list">
+      <li><span class="date-label">Submissions open:</span> TBD</li>
+      <li><span class="date-label">Deadline:</span> TBD</li>
+      <li><span class="date-label">Notification:</span> TBD</li>
+      <li><span class="date-label">Conference:</span> 14–16 May 2027</li>
+    </ul>
+  </div>
+</aside>
+</div>
+```
