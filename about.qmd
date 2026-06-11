@@ -1,0 +1,47 @@
+---
+title: "About"
+pagetitle: "About – CANCOTS 2027"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+## About CANCOTS
+
+[Describe the history and purpose of the CANCOTS conference series here.]
+
+## Organizing Committee
+
+| Name | Institution | Role |
+|------|-------------|------|
+| [Name] | [University] | Chair |
+| [Name] | [University] | Program Committee |
+| [Name] | [University] | Local Arrangements |
+
+## Program Committee
+
+*Program committee members will be listed here.*
+
+## Contact
+
+For general inquiries: [cancots2027@example.com](mailto:cancots2027@example.com)
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+  <div class="sidebar-box">
+    <h3>Quick Links</h3>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="theme.html">Theme &amp; Papers</a></li>
+      <li><a href="program.html">Program</a></li>
+      <li><a href="registration.html">Registration</a></li>
+    </ul>
+  </div>
+</aside>
+</div>
+```

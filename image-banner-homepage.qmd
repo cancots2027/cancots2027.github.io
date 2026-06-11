@@ -1,0 +1,45 @@
+---
+title: "image-banner"
+editor: visual
+---
+
+
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+
+  <div class="sidebar-box news">
+    <h3>News</h3>
+    <p>Stay tuned for conference announcements and updates.</p>
+  </div>
+
+  <div class="sidebar-box">
+    <h3>Important Dates</h3>
+    <ul class="dates-list">
+      <li><span class="date-label">Submission opens:</span> TBD</li>
+      <li><span class="date-label">Submission deadline:</span> TBD</li>
+      <li><span class="date-label">Notification:</span> TBD</li>
+      <li><span class="date-label">Registration opens:</span> TBD</li>
+      <li><span class="date-label">Conference:</span> 14–16 May 2027</li>
+    </ul>
+  </div>
+
+  <div class="sidebar-box">
+    <h3>Local Attractions</h3>
+    <div class="attraction">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Toronto_-_ON_-_Toronto_Harbourfront7.jpg/320px-Toronto_-_ON_-_Toronto_Harbourfront7.jpg"
+           alt="Toronto Waterfront" loading="lazy">
+      <p class="caption">Toronto Waterfront</p>
+    </div>
+    <div class="attraction">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Toronto_-_ON_-_CN_Tower_Close_Up.jpg/320px-Toronto_-_ON_-_CN_Tower_Close_Up.jpg"
+           alt="CN Tower" loading="lazy">
+      <p class="caption">CN Tower</p>
+    </div>
+  </div>
+
+</aside>
+</div>
+```

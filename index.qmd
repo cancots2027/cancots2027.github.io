@@ -1,0 +1,67 @@
+---
+title: "CANCOTS 2027"
+pagetitle: "CANCOTS 2027 – Home"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+## Introduction
+
+The second **Canadian Conference on Teaching Statistics (CanCOTS 2027)** will be held at the University of Toronto from Monday June 22nd to Wednesday June 24th, 2027.
+CanCOTS brings together statistics educators, researchers, and practitioners from across Canada and beyond to share ideas, collaborate, and advance the teaching and learning of statistics. The conference will combine structured sessions with collaborative working time, giving participants the opportunity to both learn from one another and leave with concrete outcomes.
+
+Details on format, schedule, and registration will be announced in the coming months.
+
+
+
+
+
+## Sponsors
+
+We gratefully acknowledge the support and sponsorship of the following organizations:
+
+- [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/)
+- [CANSSI Ontario](https://canssiontario.utoronto.ca/)
+
+
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+
+  <div class="sidebar-box news">
+    <h3>News</h3>
+    <p>Stay tuned for conference announcements and updates.</p>
+  </div>
+
+  <div class="sidebar-box">
+    <h3>Important Dates</h3>
+    <ul class="dates-list">
+      <li><span class="date-label">Registration opens:</span> TBD</li>
+      <li><span class="date-label">Registration closes:</span> TBD</li>
+      <li><span class="date-label">Conference:</span> June 22-24, 2027</li>
+    </ul>
+  </div>
+
+  <div class="sidebar-box">
+    <h3>Local Attractions</h3>
+    <div class="attraction">
+      <img src="assets/photos/toronto-waterfront.jpg"
+           alt="Toronto Waterfront" loading="lazy">
+      <p class="caption">Toronto Waterfront</p>
+    </div>
+    <div class="attraction">
+      <img src="assets/photos/cn-tower.jpg"
+           alt="CN Tower" loading="lazy">
+      <p class="caption">CN Tower</p>
+    </div>
+  </div>
+(images from Pexels)
+</aside>
+</div>
+```

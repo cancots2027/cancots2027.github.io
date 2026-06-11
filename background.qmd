@@ -1,0 +1,23 @@
+---
+title: "Background"
+pagetitle: "Background: Conferences on Teaching Statistics (COTS)"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+“Conferences On Teaching Statistics” (COTS) have a long and rich history, starting from the earliest such international conferences (International Conference on Teaching Statistics – ICOTS) in 1982 (Sheffield, UK) and 1986 (Victoria, Canada). 
+A total of twelve ICOTS have been held, every four years since 1982, and a number of regional versions, including
+
+- OZCOTS (Australia and NZ),
+- USCOTS (United States),
+- eCOTS,
+- UKCOTS (United Kingdom),
+- CFIES (France, Belgium)
+
+have also been held.
+
+The first edition of CANCOTS was held in Montreal in 2025 (https://cancots.netlify.app/)

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "CANCOTS 2027"
+  site-url: "https://cancots2027.github.io"
+  description: "Canadian Conference on Teaching Statistics – 14–16 May 2027, Toronto, Canada"
+
+  navbar: false   # We use a custom top nav in the template instead
+
+  page-footer:
+    left: "For questions or comments, contact [cancots2027@example.com](mailto:cancots2027@example.com)"
+    right: "© 2027 CANCOTS 2027 Organizing Committee"
+    background: "#1a3a5c"
+
+  sidebar: false
+
+  # Open Graph / social preview
+  open-graph:
+    title: "CANCOTS 2027"
+    description: "Canadian Conference on Teaching Statistics – Toronto, May 2027"
+
+format:
+  html:
+    theme: none           # We supply our own CSS entirely
+    css: assets/css/style.css
+    toc: false
+    template-partials:
+      - _partials/title-block.html
+    include-before-body: _includes/header.html
+    include-after-body: _includes/footer.html

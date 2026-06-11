@@ -1,0 +1,30 @@
+---
+title: "Notices"
+pagetitle: "Notices – CANCOTS 2027"
+page-layout: custom
+---
+
+```{=html}
+<div class="page-body">
+<main class="content">
+```
+
+## Notices & Announcements
+
+*Conference notices and announcements will be posted here as they become available.*
+
+---
+
+*No notices at this time. Please check back later.*
+
+```{=html}
+</main>
+
+<aside class="sidebar">
+  <div class="sidebar-box news">
+    <h3>Latest Notice</h3>
+    <p>No notices yet.</p>
+  </div>
+</aside>
+</div>
+```
